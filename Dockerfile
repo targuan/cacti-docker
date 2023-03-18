@@ -1,3 +1,3 @@
 FROM centos:7
 
-yum install cacti
+RUN yum install cacti
